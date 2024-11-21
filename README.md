@@ -10,10 +10,10 @@
 * Acompaña al plan, un sistema de control en los ejercicios físicos rutinarios a desarrollar, _verificando pulsaciones_.
 
 ### Se adjunta el plan  con calendario
-[[Plan Dieta Antiinflamatoria](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+[[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1OJIU_5tAfaOmWE66dc65KTJyrfV-6GiePqJYO_vEgXc/edit?tab=t.0#heading=h.5ion837xas39]
 
 ### Se adjunta una muestra de como llevar el control de pulsaciones
-[[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+[[Control Cardio](https://docs.google.com/spreadsheets/d/16ohIaL9wrjTsSFoOr6yquxdGrW3xAFu2gK-e9UzjP5g/edit?gid=0#gid=0]
 
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
-[[Presentaciones]((AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+[[Presentaciones](https://app.presentations.ai/view/Cojxn5)]
